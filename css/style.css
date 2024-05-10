@@ -30,7 +30,7 @@
 /* 1. Defaults & Reset of specific styles across browsers */
 /*------------------------------------------------------------------------------------------*/
 
-.vernissage-header {
+.vernissage-header, .vernissage-header:hover, .vernissage-header:visited {
     font-family: 'Fleur De Leah', cursive;
     font-size: 1.2em;
     text-decoration: none; /* no underline */
